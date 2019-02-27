@@ -24,3 +24,5 @@ Try variants of VF2 algorithm for subgraph isomorphism to test speed
 * VF2+
 * VF2++
 
+## Resources
+- [Vincenzo Carletti's github account](https://github.com/vincarlet)
